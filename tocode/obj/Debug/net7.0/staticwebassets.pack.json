@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\tocode.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\hp\\Desktop\\asp.net-exercise\\tocode\\wwwroot\\css\\bootswatchTheme.css",
+      "PackagePath": "staticwebassets\\css\\bootswatchTheme.css"
+    },
+    {
       "Id": "C:\\Users\\hp\\Desktop\\asp.net-exercise\\tocode\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

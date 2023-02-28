@@ -18678,6 +18678,11 @@
       "FilePath": "c:\\Users\\hp\\Desktop\\asp.net-exercise\\tocode\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\hp\\Desktop\\asp.net-exercise\\tocode\\Views\\Category\\Index.cshtml",
+      "TargetPath": "Views\\Category\\Index.cshtml",
+      "FileKind": "mvc"
     }
   ],
   "SerializationFormat": "0.3"

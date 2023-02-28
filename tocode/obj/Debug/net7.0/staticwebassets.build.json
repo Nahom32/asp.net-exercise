@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9QXbsOuIJN3qKuseaPwHpuM08V5IKiD5sP1zyr6OMo0=",
+  "Hash": "fXO30J1a/tt0Cwu3KDLCYzuNsFWrpcLR8WyESxPRjso=",
   "Source": "tocode",
   "BasePath": "_content/tocode",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\hp\\Desktop\\asp.net-exercise\\tocode\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\tocode.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\hp\\Desktop\\asp.net-exercise\\tocode\\wwwroot\\css\\bootswatchTheme.css",
+      "SourceId": "tocode",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\asp.net-exercise\\tocode\\wwwroot\\",
+      "BasePath": "_content/tocode",
+      "RelativePath": "css/bootswatchTheme.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootswatchTheme.css"
     },
     {
       "Identity": "C:\\Users\\hp\\Desktop\\asp.net-exercise\\tocode\\wwwroot\\css\\site.css",
