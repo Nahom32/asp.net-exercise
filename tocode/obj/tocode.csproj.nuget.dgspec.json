@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\Desktop\\asp.net-exercise\\learningProject\\tocode\\tocode.csproj": {}
+    "C:\\Users\\hp\\Desktop\\asp.net-exercise\\tocode\\tocode.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\Desktop\\asp.net-exercise\\learningProject\\tocode\\tocode.csproj": {
+    "C:\\Users\\hp\\Desktop\\asp.net-exercise\\tocode\\tocode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Desktop\\asp.net-exercise\\learningProject\\tocode\\tocode.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Desktop\\asp.net-exercise\\tocode\\tocode.csproj",
         "projectName": "tocode",
-        "projectPath": "C:\\Users\\hp\\Desktop\\asp.net-exercise\\learningProject\\tocode\\tocode.csproj",
+        "projectPath": "C:\\Users\\hp\\Desktop\\asp.net-exercise\\tocode\\tocode.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Desktop\\asp.net-exercise\\learningProject\\tocode\\obj\\",
+        "outputPath": "C:\\Users\\hp\\Desktop\\asp.net-exercise\\tocode\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -37,6 +37,16 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools.DotNet": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
